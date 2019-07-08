@@ -1,0 +1,111 @@
+baseurl = "https://kaiserasif.github.io"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "Kaiser Asif"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+# pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+disablePathToLower = true
+
+date = "2012-04-06"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+#   subtitle = "PhD in Computer Science"
+#   logo = "img/portrait.jpg" # Expecting square dimensions
+#   favicon = "img/favicon.ico"
+  date = "2012-04-06"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+# [[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+# [[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+# [[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  name = "Kaiser Asif"
+  website = "kaiserasif.github.io"
+  email = "kaiserasif@gmail.com"
+#   facebook = ""
+#   googleplus = "" # or xxxxxxxxxxxxxxxxxxxxx
+  github = "kaiserasif"
+#   gitlab = ""
+#   bitbucket = ""
+#   twitter = ""
+#   reddit = ""
+  linkedin = "kaiserasif"
+#   xing = ""
+#   stackoverflow = ""
+#   snapchat = ""
+#   instagram = ""
+#   youtube = "" # or channel/channelname
+#   soundcloud = ""
+#   spotify = ""
+#   bandcamp = ""
+#   itchio = ""
+#   vk = ""
+#   paypal = ""
+#   telegram = ""
+#   500px = ""
+
+# [[menu.main]]
+#     name = "Blog"
+#     url = ""
+#     weight = 1
+
+# [[menu.main]]
+#     name = "About"
+#     url = "about/"
+#     weight = 3
+
+# [[menu.main]]
+#     identifier = "samples"
+#     name = "Samples"
+#     weight = 2
+
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Big Image Sample"
+#     url = "post/2017-03-07-bigimg-sample"
+#     weight = 1
+
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Math Sample"
+#     url = "post/2017-03-05-math-sample"
+#     weight = 2
+
+# [[menu.main]]
+#     parent = "samples"
+#     name = "Code Sample"
+#     url = "post/2016-03-08-code-sample"
+#     weight = 3
+
+# [[menu.main]]
+#     name = "Tags"
+#     url = "tags"
+#     weight = 3
