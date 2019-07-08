@@ -1,6 +1,7 @@
 
 ---
 type: page # avoid prev and next post buttons
+
 ---
 
 
@@ -8,4 +9,4 @@ type: page # avoid prev and next post buttons
 
 This is my first project, how exciting!
 
-[[back](/projects)]
+[[back](/page/projects)]

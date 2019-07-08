@@ -14,14 +14,11 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 disablePathToLower = true
 
-date = "2012-04-06"
-
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
 #   subtitle = "PhD in Computer Science"
 #   logo = "img/portrait.jpg" # Expecting square dimensions
 #   favicon = "img/favicon.ico"
-  date = "2012-04-06"
   dateFormat = "January 2, 2006"
   commit = false
   rss = false

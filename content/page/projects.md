@@ -6,7 +6,7 @@ date : "2019-07-07"
 
 <a name="project1"></a>
 
-This is [project 1](details/first-project)
+This is [project 1](/page/first-project)
 </br>
 </br>
 </br>
@@ -25,4 +25,4 @@ This is [project 1](details/first-project)
 
 
 
-[project 2](details/second-project)
+[project 2](/page/second-project)
