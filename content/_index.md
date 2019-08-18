@@ -34,8 +34,9 @@ Conference on Acoustic Emission (ICAE), 2019.
 
 
 ### Projects
-*   
-<!-- * [more...](projects) -->
+* Real-time welding defect detection from air-bourne sensor data using adversarial sequence tagging.
+* Use NLP techniques to infer actor from movie scripts. 
+* [more...](page/projects)
 
 ### Awards and Activities
 * Top 50 in [ITA tech challenge](https://www.itatechchallenge.com/) (2018)
