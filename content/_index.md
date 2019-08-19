@@ -20,9 +20,10 @@ I have completed my PhD in Machine Learning from [Department of Computer Science
 * Artificial Intelligence
 * Software Engineering
 
-### Publications
- * __Kaiser Asif__, Wei Xing, Sima Behpour, Brian D. Ziebart, **"Adversarial Cost-Sensitive Classification"**, International Conference on Uncertainty in Artificial Intelligence (UAI), 2015. [[paper](/papers/asif2015uai.pdf)] [[related code]]
- * Jia Li\*, __Kaiser Asif\*__, Hong Wang, Brian D. Ziebart, and Tanya Berger-Wolf, **"Adversarial Sequence Tagging"**, International Joint Conference on Artificial Intelligence (IJCAI), 2016. [[paper](/papers/li2016adversarial.pdf)] [[related code]]
+### Publications 
+
+ * __Kaiser Asif__, Wei Xing, Sima Behpour, Brian D. Ziebart, **"Adversarial Cost-Sensitive Classification"**, International Conference on Uncertainty in Artificial Intelligence (UAI), 2015. [[paper](/papers/asif2015uai.pdf)] <!--[[related code]] -->
+ * Jia Li\*, __Kaiser Asif\*__, Hong Wang, Brian D. Ziebart, and Tanya Berger-Wolf, **"Adversarial Sequence Tagging"**, International Joint Conference on Artificial Intelligence (IJCAI), 2016. [[paper](/papers/li2016adversarial.pdf)] <!--[[related code]] -->
  * Rizal Fathony, __Kaiser Asif__, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, Brian D. Ziebart, **"Consistent Robust Adversarial Prediction for General Multiclass Classification"**, arXiv preprint arXiv:1812.07526, 2018. [[paper](https://arxiv.org/pdf/1812.07526.pdf)]
  * Rizal Fathony, Anqi Liu, __Kaiser Asif__, and Brian Ziebart, **"Adversarial Multiclass Classification: A Risk Minimization Perspective"**, Advances in Neural Information Processing Systems (NIPS), 2016. [[paper](https://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective.pdf)]
  * Hong Wang, Wei Xing, __Kaiser Asif__, Brian D. Ziebart, **"Adversarial Prediction Games for Multivariate Losses"**, Advances in Neural Information Processing Systems (NIPS), 2015. [[paper](http://papers.nips.cc/paper/5686-adversarial-prediction-games-for-multivariate-losses.pdf)]
@@ -36,7 +37,7 @@ Conference on Acoustic Emission (ICAE), 2019.
 ### Projects
 * Real-time welding defect detection from air-bourne sensor data using adversarial sequence tagging.
 * Use NLP techniques to infer actor from movie scripts. 
-* [more...](page/projects)
+<!-- * [more...](page/projects) -->
 
 ### Awards and Activities
 * Top 50 in [ITA tech challenge](https://www.itatechchallenge.com/) (2018)

@@ -44,10 +44,11 @@ disablePathToLower = true
 #  desc = "Hexagon"
 
 [Author]
-  name = ""
+  name = "Kaiser Asif"
   website = "kaiserasif.github.io"
   email = "kaiserasif@gmail.com"
-#   facebook = ""
+  googlescholar = "EXVmDJYAAAAJ"
+#   facebook = "kaiserasif"
 #   googleplus = "" # or xxxxxxxxxxxxxxxxxxxxx
   github = "kaiserasif"
 #   gitlab = ""
