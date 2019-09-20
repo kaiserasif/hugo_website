@@ -27,6 +27,7 @@ I have completed my PhD in Machine Learning from [Department of Computer Science
  * Rizal Fathony, __Kaiser Asif__, Anqi Liu, Mohammad Ali Bashiri, Wei Xing, Sima Behpour, Xinhua Zhang, Brian D. Ziebart, **"Consistent Robust Adversarial Prediction for General Multiclass Classification"**, arXiv preprint arXiv:1812.07526, 2018. [[paper](https://arxiv.org/pdf/1812.07526.pdf)]
  * Rizal Fathony, Anqi Liu, __Kaiser Asif__, and Brian Ziebart, **"Adversarial Multiclass Classification: A Risk Minimization Perspective"**, Advances in Neural Information Processing Systems (NIPS), 2016. [[paper](https://papers.nips.cc/paper/6088-adversarial-multiclass-classification-a-risk-minimization-perspective.pdf)]
  * Hong Wang, Wei Xing, __Kaiser Asif__, Brian D. Ziebart, **"Adversarial Prediction Games for Multivariate Losses"**, Advances in Neural Information Processing Systems (NIPS), 2015. [[paper](http://papers.nips.cc/paper/5686-adversarial-prediction-games-for-multivariate-losses.pdf)]
+ * __Kaiser Asif__, Lu Zhang, Sybil Derrible, Ernesto Indacochea, Didem Ozevin, and Brian D. Ziebart, **"Using machine learning to predict welding quality from airborne AE sensor data"**, [in submission].
 
 ### Workshop 
  * __Kaiser Asif__, Lu Zhang, Sybil Derrible, Ernesto Indacochea, Didem Ozevin, and Brian D. Ziebart, **"Using machine learning to predict welding quality from airborne AE sensor data"**, 9th International
@@ -45,4 +46,7 @@ Conference on Acoustic Emission (ICAE), 2019.
 * Volunteer and Travel Award : UAI student volunteer (2015).
 * Volunteer : Developer of Sahana (a disaster management software) for Bangladesh Disaster Management Bureau (2008).
 * Merit Scholarships: National Education Board Scholarship (Bangladesh) for the result in high school
-graduation. Dean's award in undergraduate. Merit Scholarship for 5th position in undergraduate admission test.
+graduation. Dean's award in undergraduate. Merit Scholarship for 5th position in undergraduate admission test (2004-2008).
+
+### Contact
+kaiserasif at gmail dot com
